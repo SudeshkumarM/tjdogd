@@ -1,0 +1,6 @@
+{
+  "name": "TECHNITIX — Futuristic Neon Hierarchy",
+  "description": "Interactive Neon Faculty & Student Hierarchy web application for TECHNITIX with dynamic neural tree connectors, progressive scroll illumination, in-browser photo cropper, bilingual Tamil & English support, cinematic intro gate, and real-time Neon Studio customizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
